@@ -9,5 +9,7 @@ namespace WpfApp3
         int a = 1;
 
         string b = "1";
+        
+        double c = 2;
     }
 }
