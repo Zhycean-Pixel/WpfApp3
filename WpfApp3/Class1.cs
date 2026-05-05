@@ -10,6 +10,6 @@ namespace WpfApp3
 
         string b = "1";
         
-        double c = 2;
+        double d = 2;
     }
 }
